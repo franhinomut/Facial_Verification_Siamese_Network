@@ -1,0 +1,6 @@
+data/
+ifw/
+training_checkpoints/
+lfw.tgz
+siamesemodelv2.h5
+Siamese Neural Network for One-shot Image Recognition.pdf
